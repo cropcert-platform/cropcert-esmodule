@@ -1,4 +1,4 @@
-# Cropcert ESModule
+# cropcert esmodule
 
 - Interacts with easticsearch and provides proxy interface
 - It contains code that syncs postgres changes to the ES
