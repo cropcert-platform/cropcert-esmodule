@@ -47,7 +47,6 @@ This module exposes a REST API. Where Swagger / OpenAPI is configured, the gener
 .
 ├── pom.xml          # Maven build definition
 ├── src/main         # Application source code
-├── assets/banner.svg # README banner
 └── LICENSE
 ```
 
